@@ -6,7 +6,7 @@ import usil2026.demo.Model.PersonaEntity;
 import usil2026.demo.Repository.PersonaRepository;
 import usil2026.demo.Service.PersonaService;
 
-import javax.jnlp.PersistenceService;
+
 import java.util.Collections;
 import java.util.List;
 
